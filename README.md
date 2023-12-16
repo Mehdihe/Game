@@ -1,2 +1,0 @@
-# Game
-Guess the number
